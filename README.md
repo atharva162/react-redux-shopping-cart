@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Shopping cart website
 
-A mini shopping cart website build utilising React.js, Redux, and CSS3.
+A mini shopping cart website build utilising React.js, Redux, and CSS3 made as a learning attempt to redux.
 
 ## Features:-
 
