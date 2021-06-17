@@ -1,6 +1,6 @@
 # Shopping cart website
 
-A mini shopping cart website build utilising React.js, Redux, and CSS3 made as a learning attempt to redux.
+A mini shopping cart website build utilising React.js, Redux, and CSS3 made as a learning attempt in redux.
 
 ## Features:-
 
