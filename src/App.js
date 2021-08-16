@@ -11,8 +11,8 @@ const App = () =>  (
    <Provider store={store}>
     <Router>
        <Switch>
-          <PrivateRoute exact path="/" component={Products}/>
-          <PrivateRoute path="/cart" component={Cart}/>
+          <Route exact path="/" component={Products}/>
+          <Route path="/cart" component={Cart}/>
        </Switch>
     </Router>
    </Provider>
